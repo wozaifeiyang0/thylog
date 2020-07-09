@@ -1,4 +1,4 @@
-package thy_log
+package thy
 
 import (
 	"io"
